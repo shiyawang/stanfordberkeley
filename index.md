@@ -1,6 +1,6 @@
 ## Welcome to our homepage!
 
-The Stanford-Berkeley Conference in Organizations is jointly organized by graduate students at Stanford and Berkeley. It aims to bring together aspiring scholars in organizations across two campuses and beyond. 
+The Stanford-Berkeley Conference in Organizations is jointly organized by graduate students at Stanford and Berkeley. It is held annually at either Stanford GSB or Berkeley Haas. It aims to bring together aspiring scholars in organizations across two campuses and beyond. 
 
 ### Format
 
