@@ -6,6 +6,12 @@ The Stanford-Berkeley Conference in Organizations is jointly organized by gradua
 
 Students can share their current projects in short presentations and roundable discussions. Depending on the number of presenters, each presenter will be given 15 to 30 minutes for short presentations of their current project(s). Roundtable discussions are meant to be informal discussions on broader topics of interest. 
 
+### Agenda 2018
+
+The 2018 Stanford-Berkeley Conference is held at Stanford GSB on Saturday, Feb 3. The schedule of the conference can be found [here](stanford_berkeley_2018_agenda.pdf).
+
 ### Contact
 
 The organizers for the conference in 2018 are Shiya Wang and Berk Can Deniz. They can be reached at <shiya@stanford.edu> and <bcdeniz@stanford.edu>.
+
+
