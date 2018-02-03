@@ -1,37 +1,11 @@
 ## Welcome to our homepage!
 
-You can use the [editor on GitHub](https://github.com/shiyawang/stanfordberkeley/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+The Stanford-Berkeley Conference in Organizations is jointly organized by graduate students at Stanford and Berkeley. It aims to bring together aspiring scholars in organizations across two campuses and beyond. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Format
 
-### Markdown
+Students can share their current projects in short presentations and roundable discussions. Depending on the number of presenters, each presenter will be given 15 to 30 minutes for short presentations of their current project(s). Roundtable discussions are meant to be informal discussions on broader topics of interest. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Contact
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shiyawang/stanfordberkeley/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+The organizers for the conference in 2018 are Shiya Wang and Berk Can Deniz. They can be reached at <shiya@stanford.edu> and <bcdeniz@stanford.edu>.
