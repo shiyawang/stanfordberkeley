@@ -4,7 +4,7 @@ The Stanford-Berkeley Conference in Organizations is jointly organized by gradua
 
 ### Format
 
-Students can share their current projects in short presentations and roundable discussions. Depending on the number of presenters, each presenter will be given 15 to 30 minutes for short presentations of their current project(s). Roundtable discussions are meant to be informal discussions on broader topics of interest. 
+Students may share their current projects in short presentations and roundable discussions. Depending on the number of presenters, each presenter will be given 15 to 30 minutes to present their current project(s). Roundtable discussions are informal discussions on broader topics of interest. 
 
 ### Agenda 2018
 
