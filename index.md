@@ -8,7 +8,7 @@ Students may share their current projects in short presentations and roundable d
 
 ### Agenda 2018
 
-The 2018 Stanford-Berkeley Conference is held at Stanford GSB on Saturday, Feb 3. The schedule of the conference can be found [here](stanford_berkeley_2018_agenda.pdf).
+The 2018 Stanford-Berkeley Conference is held at Stanford GSB on Saturday, Feb 3. The agenda can be found [here](stanford_berkeley_2018_agenda.pdf).
 
 ### Contact
 
