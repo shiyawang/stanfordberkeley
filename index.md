@@ -1,6 +1,6 @@
 ## Welcome to our homepage!
 
-The Stanford-Berkeley Conference in Organizations is jointly organized by graduate students at Stanford and Berkeley. It is held annually at either Stanford GSB or Berkeley Haas. It aims to bring together aspiring scholars in organizations across two campuses and beyond. 
+The Stanford-Berkeley Conference in Organizations is jointly organized by graduate students at Stanford and Berkeley. It is held annually at either Stanford GSB or Berkeley Haas. It aims to bring together aspiring scholars in organizational behavior across two campuses and beyond. 
 
 ### Format
 
@@ -12,6 +12,6 @@ The 2018 Stanford-Berkeley Conference is held at Stanford GSB on Saturday, Feb 3
 
 ### Contact
 
-The organizers for the conference in 2018 are Shiya Wang and Berk Can Deniz. They can be reached at <shiya@stanford.edu> and <bcdeniz@stanford.edu>.
+The organizers for the conference in 2018 are Shiya Wang and Berk Can Deniz. They can be reached at <shiya@stanford.edu> and <bcdeniz@stanford.edu>. If you are interested in organizing Stanford-Berkeley 2019, please contact Shiya and Berk!
 
 
